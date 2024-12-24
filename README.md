@@ -13,10 +13,17 @@ Smart Agric is an intelligent agriculture management system that integrates cutt
 2. **Crop Yield Prediction**
    - Predicts crop yield based on factors such as area, production, rainfall, and more.
    - Provides solutions and suggestions to improve yield.
+3. **Irrigation Management**  
+   - Offers intelligent recommendations for irrigation scheduling based on:  
+   - Soil moisture levels  
+   - Weather forecasts  
+   - Crop type and growth stage  
+   - Helps optimize water usage, reduce waste, and ensure healthy crop growth.  
 
-3. **User-Friendly Interface**
+4. **User-Friendly Interface**
    - Interactive web application built with Streamlit.
    - Recommendations and insights provided to users for better decision-making.
+
 
 ---
 
@@ -29,6 +36,7 @@ The project comprises essential components:
 - `app.py`: Streamlit web application for Smart Agriculture management.
 - `plant_disease_model.h5`: Pre-trained model weights.
 - `crop_yield_model.pkl`: Pre-trained model weights.
+- `irrigationTuning.ipynb`: Pre-trained model weights.
 - `requirements.txt`: List of necessary Python packages.
 
 ## 🛠️ Installation
@@ -62,6 +70,10 @@ The project comprises essential components:
 
 ### Crop Yield Prediction
 - Based on `crop_yield.csv`, containing historical data of crops, production, rainfall, etc.
+### Irrigation Management  
+- Integrates soil and weather data for precise irrigation planning.  
+- Data sources include meteorological records and agricultural studies.
+  
 
 ## 🔧 Technologies Used
 
