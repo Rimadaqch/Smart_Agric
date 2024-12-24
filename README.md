@@ -71,7 +71,7 @@ The project comprises essential components:
 ### Crop Yield Prediction
 - Based on `crop_yield.csv`, containing historical data of crops, production, rainfall, etc.
 ### Irrigation Management  
-- Integrates soil and weather data for precise irrigation planning.  
+- Integrates soil and weather data for precise irrigation planning ,`data.csv`.  
 - Data sources include meteorological records and agricultural studies.
   
 
