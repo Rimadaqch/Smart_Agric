@@ -1,6 +1,6 @@
 # 🌾 Smart Agric: Intelligent Agriculture Management
 
-Smart Agric is an intelligent agriculture management system that integrates cutting-edge AI technologies to help farmers and agricultural stakeholders. The platform features two primary functionalities: **Plant Disease Detection** , **Crop Yield Prediction**and **Irrigation management**
+Smart Agric is an intelligent agriculture management system that integrates cutting-edge AI technologies to help farmers and agricultural stakeholders. The platform features two primary functionalities: **Plant Disease Detection** , **Crop Yield Prediction** and **Irrigation management**
 
 ---
 
