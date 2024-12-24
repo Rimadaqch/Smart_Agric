@@ -9,5 +9,5 @@ The project comprises essential components:
 - `plant_disease_model.h5`: Pre-trained model weights.
 - `crop_yield_model.pkl`: Pre-trained model weights.
 - `requirements.txt`: List of necessary Python packages.
-- 
+  
 
