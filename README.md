@@ -30,5 +30,47 @@ The project comprises essential components:
 - `plant_disease_model.h5`: Pre-trained model weights.
 - `crop_yield_model.pkl`: Pre-trained model weights.
 - `requirements.txt`: List of necessary Python packages.
+
+## 🛠️ Installation
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Rimadaqch/Smart_Agric.git
+   cd Smart_Agric
+2. **Install dependencies**
+   pip install -r requirements.txt
+3.**Run the App**
+   streamlit run app.py
+
+## 🧪 How It Works
+
+### Plant Disease Detection
+- Upload a leaf image to detect diseases.
+- Leverages a pre-trained deep learning model.
+
+### Crop Yield Prediction
+- Provide input details like area, production, and environmental factors.
+- Predicts crop yield and offers data-driven improvement tips.
+
+---
+
+## 📊 Dataset Details
+
+### Plant Disease Detection
+- Trained on public datasets for plant leaf images.
+- Covers diseases in Tomato, Potato, and Corn.
+
+### Crop Yield Prediction
+- Based on `crop_yield.csv`, containing historical data of crops, production, rainfall, etc.
+
+## 🔧 Technologies Used
+
+- **Programming Language**: Python  
+- **Framework**: Streamlit  
+- **Machine Learning Libraries**: Keras, TensorFlow, scikit-learn, PyTorch, pandas, numpy  
+- **Visualization Tools**: Matplotlib, Seaborn  
+- **Image Processing**: OpenCV, PIL  
+
+
   
 
